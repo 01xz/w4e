@@ -1,6 +1,6 @@
-# wsldd
+# w4e
 
-WSL for Digital Design
+WSL for commercial EDA tools.
 
 ![](examples/example.png)
 
